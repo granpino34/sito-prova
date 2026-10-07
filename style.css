@@ -1,0 +1,71 @@
+.logo{
+    max-width: 300px;
+    height: auto;
+}
+
+.airforce{
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.h1{
+    font-size: 100px;
+}
+
+.contenitore{
+    display: flex;
+    gap: 30px;
+}
+
+.vestiario{
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.giacca{
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.pair{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+}
+
+.pair p{
+    text-align: center;
+    margin: 0;
+}
+.pair div{
+    display: inline-block;
+}
+
+.collab-container{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+}
+.collab-item{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.collab-img{
+    width: 50px;
+    height: auto;
+    display: block;
+}
+.collab-text{
+    font-size: 14px;
+    line-height: 1.4;
+}
