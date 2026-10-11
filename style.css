@@ -10,10 +10,6 @@
     margin: 0 auto;
 }
 
-.h1{
-    font-size: 100px;
-}
-
 .contenitore{
     display: flex;
     gap: 30px;
